@@ -1,0 +1,1 @@
+// ainda nao feita, exercício pede algoritmo que resolva integral polinomial definida de terceiro graum, na forma de Integral de A a B de (ax^3 + bx^2 + cx) dx, mas ainda nao sei como fazer isso em C, vou deixar o arquivo aqui para nao perder o exercicio
