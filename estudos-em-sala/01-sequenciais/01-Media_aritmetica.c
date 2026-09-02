@@ -13,4 +13,3 @@ int main(){
     printf("A media aritmetica das notas do estudante e: %.2f", media);
     return 0;
 }
-
