@@ -1,0 +1,16 @@
+1. Construir um algoritmo que, dadas quatro notas bimestrais, calcule a média final aritmética de um estudante.
+2. Construir um algoritmo para calcular a média de um estudante que realizou três avaliações, considerando que os pesos das avaliações são, respectivamente, 30%, 50% e 20%.
+3. Construir um algoritmo para calcular o comprimento da hipotenusa de um triângulo retângulo dados os seus catetos.
+4. Construir um algoritmo para calcular o comprimento da diagonal maior de um paralelepípedo retângulo dadas a suas três arestas.
+5. Uma P.A. progressão aritmética fica determinada pela sua razão r e pelo primeiro termo a1. Escrever um algoritmo que seja capaz de determinar qualquer termo an de uma P.A., dada a razão e o primeiro termo. A fórmula é an = a1 + (n - 1) r.
+6. Uma P.G. progressão geométrica fica determinada pela sua razão q e pelo primeiro termo a1. Escrever um algoritmo que seja capaz de determinar qualquer termo an de uma P.G., dado a razão e o primeiro termo. A fórmula é an = a1 q elevado a n-1.
+7. Considerar que o número de uma placa de veículo é composto por quatro algarismos. Construir um algoritmo que leia este número e apresente o algarismo correspondente à casa das unidades, dezenas, centenas e milhares.
+8. Construir um algoritmo que, tendo como dados de entrada dois pontos quaisquer no espaço, P x1 y1 z1 e P x2 y2 z2, calcule a distância entre eles.
+9. Construir um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem utilizando-se um automóvel que faz 12 Km por litro. Para realizar esse cálculo, o usuário deverá fornecer o tempo gasto da viagem e a velocidade média durante a mesma. O algoritmo deverá apresentar como resultado os valores da velocidade média, tempo gasto na viagem, a distância percorrida e a quantidade de litros utilizada na viagem.
+10. Escrever um algoritmo que leia uma temperatura em graus Fahrenheit F e apresente a temperatura convertida em Celsius C. A fórmula de conversão é F = (9C + 160) / 5.
+11. Construa um algoritmo para resolver uma integral polinomial definida de terceiro grau na forma integral de ax3 + bx2 + cx dx de A até B.
+12. Construa um algoritmo para calcular a área de um triângulo equilátero, sendo fornecido seu lado.
+13. Considerando que o coração humano bate uma vez a cada segundo, em média, construa um algoritmo que calcule quantas vezes o coração de uma pessoa baterá se ela viver X anos. Considere um ano como tendo 365,25 dias.
+14. Construa um algoritmo que leia um valor em reais R$ e decomponha esse valor no menor número possível de cédulas de R$100, R$50, R$20, R$10, R$5 e R$1.
+15. Uma locadora aluga seus carros com uma taxa fixa por dia, mais uma taxa por km rodado. Escreva um algoritmo que leia a taxa fixa por dia, a taxa por km rodado, o número de dias, o número de quilômetros rodados. Na sequência o programa deve calcular o valor total que o cliente deverá pagar pela locação do veículo.
+16. Construa um algoritmo para calcular a conversão de reais para dólar. O algoritmo deve receber a taxa de câmbio, o valor do IOF sobre a operação e o valor em dólares que será comprado. O algoritmo deve calcular o valor em reais necessário para essa compra de dólares.
