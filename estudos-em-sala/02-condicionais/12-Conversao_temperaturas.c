@@ -11,11 +11,15 @@ int main(){
     fahrenheit = temperatura;
     celsius = (fahrenheit - 32) * 5/9;
     printf("\nA temperatura em Celsius e: %.2f Graus Celsius", celsius);
-} else if(opcao == 'F' || opcao == 'f'){
+    }
+    else if(opcao == 'F' || opcao == 'f'){
     celsius = temperatura;
     fahrenheit = (celsius * 9/5) + 32;
     printf("\nA temperatura em Fahrenheit e: %.2f Graus Fahrenheit", fahrenheit);
-}
+    }
+    else{
+    printf("Opcao invalida!");
+    }
 
     return 0;
 }
